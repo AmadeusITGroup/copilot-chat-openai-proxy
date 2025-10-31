@@ -1,0 +1,13 @@
+node_modules
+dist
+out
+.npmrc
+package-lock.json
+files
+.vscode/*/*
+*.vsix
+**/vscode*.d.ts
+.DS_Store
+.cache
+.vscode-test
+test-out
